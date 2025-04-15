@@ -9,3 +9,14 @@
     color:#fff;  
 }
 
+.link-cor{
+    color: #1e8a21;
+    padding: 15px;
+}
+
+/* transform */
+
+.text-translate{
+    transform: translateY(-70%);
+    background-color: #d7d7d7;
+}
