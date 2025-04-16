@@ -48,3 +48,62 @@ h4{
 .baixo2 h4{
     color: #fff;
 }
+
+
+footer li{
+    list-style: none;
+}
+
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer input{
+    border-radius: 10px;
+    background-color: #adadad;
+    height: 40px;
+    width: 255px;
+}
+
+.redes{
+    display: flex;
+    gap: 25px;
+}
+
+
+ul li{
+    margin: 10px;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+.tesla{
+    background-color: #F5F7FA;
+    
+}
+
+
+.big-numbers{
+    background-color: #F5F7FA;
+    height: 288px;
+    padding-top: 110px;
+    
+}
+
+
+span{
+    color: #4CAF4F;
+}
+
+.baixo{
+    background-color: #F5F7FA;
+}
+
+.paragrafos-produtos{
+    width: 628px;
+    margin: auto;
+    text-align: center;
+}
